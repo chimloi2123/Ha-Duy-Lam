@@ -1,4 +1,4 @@
-<h2> Hi, I'm DuyLam! <img src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-3-min.gif" width="50"></h2>
+<h2> Hi, I'm DuyLam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Study Information Technology at <a href="https://www.hcmus.edu.vn/">University of Sciences</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
