@@ -17,6 +17,6 @@ const Lam = {
 ```
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>waterfour welcomes you !!</b>)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Waterfour welcomes you !!</b></em>
 
 ---
